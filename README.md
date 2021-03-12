@@ -2,7 +2,7 @@
 
 <img src = 'assets/wall.png'>
 
-_**Still growing from the Noobest to be a Data Storyteller**_  
+<center><b><i>Still growing from the Noobest to be a Data Storyteller</i></b></center>
 
 🤓 Introvert inside <br>
 🔬 Earth & Data Enthusiasm <br>
