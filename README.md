@@ -5,7 +5,7 @@
 _**Still growing from the Noobest to be a Data Storyteller**_  
 
 🤓 Introvert inside <br>
-🔬 Earth & Data Enthusiasm <br>
+🔬 Earth & Data Enthusiast<br>
 🏡 Based on Bandung, Indonesia <br>
 
 <a href="https://www.instagram.com/rizkiadip/">
